@@ -212,6 +212,7 @@ header nav li:hover:not(#logo){
 
 .hero{
     background-color: #b4d0e7;
+    max-width: 100%;
 }
 .small-col *{
     margin-bottom: 30px;
